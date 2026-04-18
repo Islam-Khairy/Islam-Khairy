@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 **Full-Stack Web Developer** with **2 years** of hands-on experience in **React/Next.js**
+- 🏢 **Full-Stack Web Developer** with **2.5 years** of hands-on experience in **React/Next.js**
 - 🎓 **ITI Certified** in full-stack development with **.NET & Angular**
 - ⚡ Passionate about building **scalable, performant web applications** with clean, maintainable code
 - 🚀 Delivered **production-ready applications** including:
