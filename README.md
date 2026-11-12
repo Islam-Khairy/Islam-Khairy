@@ -19,21 +19,21 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 **Front-End Engineer** with **3 years** of hands-on experience in **React / Next.js**.
-- 🚀 Proven track record at **Qabilah**, building core platform features including real-time chat, community spaces, monetization workflows, an integrated LMS, consultations, diverse post types (polls & job announcements), and integrated hackathon hubs with time-gated registration and voting workflows.
+- 🏢 **Front-End Engineer** with **3+ years** of hands-on experience building scalable web applications in **React / Next.js**.
+- 🚀 Proven track record at **Qabilah**, architecting core platform features including **real-time chat** (WebSockets with live typing/stop-typing indicators and online/offline user presence), **community spaces**, **monetization workflows**, an **integrated LMS**, **1-on-1 consultations**, diverse post types (polls & job announcements), and the **end-to-end Qabilah Hackathon platform** (supporting team registration, MVP project showcases, live tech-talk sessions, and time-gated public voting).
 - 🎓 **ITI Graduate** with solid full-stack foundations, enabling smooth front-to-back integration and seamless cross-team collaboration.
-- ⚡ Passionate about writing clean, maintainable code, optimizing performance (SSG/ISR/SSR), and breaking down complex UIs into reusable components and custom hooks.
-- 💬 Ask me about **React, Next.js, TypeScript, State Management, Performance Optimization**, and more!
+- ⚡ Passionate about clean architecture, optimizing Core Web Vitals (SSG/ISR/SSR), and deconstructing complex UIs into modular, reusable components and custom hooks.
+- 💬 Ask me about **React, Next.js, TypeScript, Real-Time WebSockets, State Management, and Performance Optimization**.
 
 ---
 
 ## 🚀 Experience Highlights
 
-✅ 3 years building production-ready, scalable React & Next.js applications  
-✅ Real-time web applications, integrating WebSocket-driven chat mechanisms and live data updates  
-✅ Complex state management, component architecture, and custom hook abstraction  
-✅ Core Web Vitals & performance optimization, leveraging advanced rendering strategies (SSG, ISR, SSR), and real-time event streams  
-✅ Full-stack foundation (.NET/C#, SQL Server, Angular) bridging front-end systems with back-end APIs  
+✅ **3+ years** building production-ready, scalable **React, Next.js, and TypeScript** applications  
+✅ Architecting **real-time web applications** with WebSocket-driven messaging, live user presence, typing indicators, and instant event-driven UI updates  
+✅ Deconstructing complex interfaces into **modular component systems**, custom React hooks, and predictable state management  
+✅ Optimizing **Core Web Vitals**, bundle sizes, and SEO using hybrid rendering strategies (**SSR, SSG, ISR**)  
+✅ Bridging front-end and back-end systems with a solid foundation in **.NET/C#**, **SQL Server**, and **RESTful API** integration
 
 ---
 
