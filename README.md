@@ -2,12 +2,12 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="75%">
+<td align="center" width="75%">
       <h3>
         Welcome to Islam Khairy's GitHub Profile!
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
       </h3>
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Engineer%20(React%2FNext.js);Full-Stack%20Capabilities%20(.NET%20%26%20Angular);3%20Years%20of%20Experience;&font=Fira%20Code&center=true&width=700&height=45&color=F75C7E&vCenter=true&size=22">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Engineer%20(React%2FNext.js%20%26%20Angular);Full-Stack%20Capabilities%20(.NET);3%2B%20Years%20of%20Experience&font=Fira%20Code&center=true&width=700&height=45&color=F75C7E&vCenter=true&size=22" alt="Typing SVG">
     </td>
     <td align="center" width="25%">
       <img width="200" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF">
@@ -20,9 +20,9 @@
 ## 👨‍💻 About Me
 
 - 🏢 **Front-End Engineer** with **3+ years** of hands-on experience building scalable web applications in **React / Next.js**.
-- 🚀 Proven track record at **Qabilah**, architecting core platform features including **real-time chat** (WebSockets with live typing/stop-typing indicators and online/offline user presence), **community spaces**, **monetization workflows**, an **integrated LMS**, **1-on-1 consultations**, diverse post types (polls & job announcements), and the **end-to-end Qabilah Hackathon platform** (supporting team registration, MVP project showcases, live tech-talk sessions, and time-gated public voting).
+- 🚀 Proven track record at **Qabilah**, architecting core frontend systems including **real-time WebSocket chat** (instant messaging, live typing indicators, and user presence), **community spaces**, **Qabilah+ features** (exclusive content monetization with teaser vs. full-access gating, 1-on-1 consultation booking, and an integrated LMS), diverse post types (polls & job announcements), **PWA & notification optimizations**, and the **complete Qabilah Hackathon user experience** (team registration, MVP showcases, live tech talks, and time-gated voting).
 - 🎓 **ITI Graduate** with solid full-stack foundations, enabling smooth front-to-back integration and seamless cross-team collaboration.
-- ⚡ Passionate about clean architecture, optimizing Core Web Vitals (SSG/ISR/SSR), and deconstructing complex UIs into modular, reusable components and custom hooks.
+- ⚡ Passionate about clean code principles, optimizing Core Web Vitals (SSG/ISR/SSR), and deconstructing complex UIs into modular, reusable components and custom hooks.
 - 💬 Ask me about **React, Next.js, TypeScript, Real-Time WebSockets, State Management, and Performance Optimization**.
 
 ---
